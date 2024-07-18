@@ -13,6 +13,8 @@ dependencies:
     sdk: flutter
   kakaomap_webview: ^0.6.2
   webview_flutter: ^3.0.4
+  http: ^0.13.3
+
 
 dev_dependencies:
   flutter_test:
